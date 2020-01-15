@@ -2,12 +2,12 @@
 label: blog template 01
 hide_body: true
 fields:
-- name: date
-  type: datetime
-  label: date
-  description: ''
+- name: text
+  type: textarea
+  default: ''
   config:
     required: false
-    date_format: 
-    time_format: 
-    display_utc: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text
