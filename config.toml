@@ -1,11 +1,11 @@
-Title = "Kenway"
-baseurl = "https://kenway.cc"
+Title = "Tharindu.dev"
+baseurl = "https://tharindu.dev"
 languageCode = "en-us"
-title = "Kenway"
-theme = "hello-friend-ng"
+title = "Tharindu N."
+theme = "hello-friend-ng-mod"
 
 [params]
-  author = "Kenway"
+  author = "Tharindu"
   homeSubtitle = "Just a dot."
   avatarurl = "https://i.imgur.com/IQQzoig.jpg"
   dateform        = "Jan 2, 2006"
@@ -17,13 +17,13 @@ theme = "hello-friend-ng"
   defaultTheme = "dark"
   copyright = "Copyrights Reserved. Kenway Dev"
   [params.logo]
-    logoText     = "$ Kenway"
+    logoText     = "$ Tharindu.dev"
     logoHomeLink = "/"
 [languages]
     [languages.en]
       subtitle  = ""
       weight    = 1
-      copyright = 'Kenway Dev'
+      copyright = 'Tharindu N.'
 [menu]
   [[menu.main]]
     name = "contact"
