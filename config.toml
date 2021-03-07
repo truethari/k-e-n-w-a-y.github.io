@@ -15,7 +15,7 @@ theme = "hello-friend-ng-mod"
   keywords = "homepage, blog programming"
   contentTypeName = "posts"
   defaultTheme = "dark"
-  copyright = "Copyrights Reserved. Kenway Dev"
+  copyright = "Copyrights Reserved. tharindu.dev"
   [params.logo]
     logoText     = "$ Tharindu.dev"
     logoHomeLink = "/"
@@ -40,7 +40,7 @@ theme = "hello-friend-ng-mod"
 [[params.social]]
       name = "GitHub"
       icon = "fab fa-github fa-2x"
-      url = "#"
+      url = "https://github.com/truethari"
 [[params.social]]
       name = "Instagram"
       icon = "fab fa-instagram fa-2x"
@@ -52,7 +52,7 @@ theme = "hello-friend-ng-mod"
 [[params.social]]
       name = "DEV.to"
       icon = "fab fa-dev fa-2x"
-      url = "#"
+      url = "https://dev.to/truethari"
 [[params.social]]
       name = "GPG"
       icon = "fas fa-key fa-2x"
